@@ -1,0 +1,516 @@
+.category-fiksi-fantasi-child,
+.category-fiksi-fantasi-item {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-mistyrose-200);
+  width: 1512px;
+  height: 86px;
+}
+.category-fiksi-fantasi-item {
+  top: 86px;
+  height: 63px;
+}
+.category-fiksi-fantasi-inner {
+  position: absolute;
+  top: 27px;
+  left: 330px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 820px;
+  height: 41px;
+  cursor: pointer;
+}
+.beaulivre17,
+.telurusi-buku7 {
+  position: absolute;
+  top: 40px;
+  left: 402px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 255px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.beaulivre17 {
+  top: 30px;
+  left: 131px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-caveat-brush);
+  color: var(--color-rosybrown-100);
+  width: 169px;
+  height: 31px;
+}
+.logo-icon17,
+.profile-icon7,
+.search-icon7 {
+  position: absolute;
+  top: 31px;
+  left: 358px;
+  width: 30px;
+  height: 33px;
+  object-fit: cover;
+}
+.logo-icon17,
+.profile-icon7 {
+  top: -13px;
+  left: 23px;
+  width: 108px;
+  height: 118px;
+}
+.profile-icon7 {
+  top: 17px;
+  left: 1419px;
+  width: 61px;
+  height: 61px;
+  cursor: pointer;
+}
+.group-child27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 165px;
+  height: 34px;
+  opacity: 0.5;
+}
+.auuiayy7 {
+  position: absolute;
+  top: 3px;
+  left: 47px;
+  display: inline-block;
+  width: 198px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 34px;
+  left: 1241px;
+  width: 245px;
+  height: 34px;
+  font-size: var(--font-size-xl);
+}
+.category-fiksi-fantasi-child1,
+.category-fiksi-fantasi-child2,
+.category-fiksi-fantasi-child3 {
+  position: absolute;
+  top: 229px;
+  left: 117px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-rosybrown-100);
+  width: 1188px;
+  height: 515px;
+  opacity: 0.5;
+}
+.category-fiksi-fantasi-child2,
+.category-fiksi-fantasi-child3 {
+  top: 807px;
+}
+.category-fiksi-fantasi-child3 {
+  top: 1385px;
+}
+.category-fiksi-fantasi-child4,
+.category-fiksi-fantasi-child5,
+.category-fiksi-fantasi-child6 {
+  position: absolute;
+  top: 656px;
+  left: 441px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-mistyrose-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 169px;
+  height: 41px;
+  cursor: pointer;
+}
+.category-fiksi-fantasi-child5,
+.category-fiksi-fantasi-child6 {
+  top: 1177px;
+  left: 469px;
+}
+.category-fiksi-fantasi-child6 {
+  top: 1755px;
+}
+.category-fiksi-fantasi-child7,
+.group-child28 {
+  position: absolute;
+  top: 104px;
+  left: 906px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-indianred-100);
+  width: 85px;
+  height: 25px;
+  opacity: 0.5;
+}
+.group-child28 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-rosybrown-100);
+}
+.favorit15 {
+  position: absolute;
+  top: 3px;
+  left: 21px;
+  display: inline-block;
+  width: 86px;
+  height: 24px;
+  mix-blend-mode: luminosity;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 105px;
+  left: 766px;
+  width: 107px;
+  height: 27px;
+  cursor: pointer;
+}
+.my-book15 {
+  position: absolute;
+  top: 2px;
+  left: 16px;
+  display: inline-block;
+  width: 75px;
+  height: 21px;
+  mix-blend-mode: luminosity;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 105px;
+  left: 626px;
+  width: 91px;
+  height: 25px;
+  cursor: pointer;
+}
+.category22,
+.home15 {
+  position: absolute;
+  top: 107px;
+  left: 918px;
+  display: inline-block;
+  width: 107px;
+  height: 24px;
+  mix-blend-mode: luminosity;
+}
+.home15 {
+  top: 3px;
+  left: 23px;
+  width: 84px;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 105px;
+  left: 486px;
+  width: 107px;
+  height: 27px;
+  cursor: pointer;
+}
+.mulai-baca,
+.mulai-baca1,
+.mulai-baca2 {
+  position: absolute;
+  top: 670px;
+  left: 484px;
+  display: inline-block;
+  width: 139px;
+  height: 24px;
+  mix-blend-mode: luminosity;
+}
+.mulai-baca1,
+.mulai-baca2 {
+  top: 1190px;
+  left: 514px;
+}
+.mulai-baca2 {
+  top: 1768px;
+}
+.seorang-gadis-muda {
+  margin: 0;
+}
+.seorang-gadis-muda-container {
+  position: absolute;
+  top: 428px;
+  left: 441px;
+  display: inline-block;
+  width: 662px;
+  height: 24px;
+  mix-blend-mode: luminosity;
+}
+.kisah-seorang-gadis-container,
+.seorang-penyihir-muda-container,
+.sinopsis,
+.sinopsis1,
+.sinopsis2 {
+  position: absolute;
+  top: 1009px;
+  left: 469px;
+  display: inline-block;
+  width: 662px;
+  height: 24px;
+  mix-blend-mode: luminosity;
+}
+.kisah-seorang-gadis-container,
+.sinopsis,
+.sinopsis1,
+.sinopsis2 {
+  top: 1587px;
+  width: 665px;
+}
+.sinopsis,
+.sinopsis1,
+.sinopsis2 {
+  top: 394px;
+  left: 440px;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-jua);
+  width: 92px;
+}
+.sinopsis1,
+.sinopsis2 {
+  top: 972px;
+  left: 469px;
+}
+.sinopsis2 {
+  top: 1550px;
+}
+.pennyroyal-icon1 {
+  position: absolute;
+  top: 293px;
+  left: 169px;
+  border-radius: var(--br-3xs);
+  width: 211px;
+  height: 309px;
+  object-fit: cover;
+}
+.alice-wonderland1,
+.die-kleine-hexe1,
+.pennyroyal-academy1 {
+  position: absolute;
+  top: 285px;
+  left: 441px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-cagliostro);
+  color: var(--color-indianred-100);
+  display: inline-block;
+  width: 388px;
+  height: 50px;
+  mix-blend-mode: luminosity;
+}
+.alice-wonderland1,
+.die-kleine-hexe1 {
+  top: 871px;
+  left: 459px;
+}
+.alice-wonderland1 {
+  top: 1449px;
+}
+.die-kleine-hexe2 {
+  position: absolute;
+  top: 866px;
+  left: 177px;
+  border-radius: var(--br-3xs);
+  width: 211px;
+  height: 309px;
+  object-fit: cover;
+}
+.group-child31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 169px;
+  height: 41px;
+}
+.bahasa-icon {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  width: 18px;
+  height: 19px;
+  object-fit: cover;
+}
+.bahasa-indonesia {
+  position: absolute;
+  top: 12px;
+  left: 43px;
+  display: inline-block;
+  width: 139px;
+  height: 24px;
+  mix-blend-mode: luminosity;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 335px;
+  left: 435px;
+  width: 182px;
+  height: 41px;
+}
+.group-child34,
+.rectangle-parent10,
+.rectangle-parent9 {
+  position: absolute;
+  top: 921px;
+  left: 459px;
+  width: 182px;
+  height: 41px;
+}
+.group-child34,
+.rectangle-parent10 {
+  top: 1499px;
+}
+.group-child34 {
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 238px;
+}
+.copyright-2024-designed8 {
+  top: 167px;
+  left: 566px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-dimgray-200);
+  width: 363px;
+  height: 25px;
+}
+.beaulivre18,
+.copyright-2024-designed8,
+.website-ini-merupakan8 {
+  position: absolute;
+  display: inline-block;
+}
+.website-ini-merupakan8 {
+  top: 36px;
+  left: 1214px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-dimgray-200);
+  width: 248px;
+  height: 25px;
+}
+.beaulivre18 {
+  top: 43px;
+  left: 108px;
+  width: 169px;
+  height: 31px;
+  mix-blend-mode: luminosity;
+}
+.logo-icon18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 108px;
+  height: 118px;
+  object-fit: cover;
+}
+.beaulivre-parent7 {
+  position: absolute;
+  top: 49px;
+  left: 46px;
+  width: 277px;
+  height: 118px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-rosybrown-100);
+  font-family: var(--font-caveat-brush);
+}
+.group-child35,
+.group-child36,
+.group-child37,
+.group-child38 {
+  position: absolute;
+  top: 89px;
+  left: 566px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-indianred-100);
+  width: 88px;
+  height: 38px;
+  opacity: 0.5;
+}
+.group-child36,
+.group-child37,
+.group-child38 {
+  left: 660px;
+}
+.group-child37,
+.group-child38 {
+  left: 756px;
+}
+.group-child38 {
+  left: 852px;
+}
+.favorit16,
+.my-book16 {
+  width: 71px;
+  height: 10px;
+  cursor: pointer;
+}
+.my-book16 {
+  position: absolute;
+  top: 98px;
+  left: 677px;
+  font-weight: 500;
+  display: inline-block;
+}
+.favorit16 {
+  left: 773px;
+}
+.category23,
+.favorit16,
+.home16 {
+  position: absolute;
+  top: 98px;
+  font-weight: 500;
+  display: inline-block;
+}
+.home16 {
+  left: 589px;
+  width: 71px;
+  height: 10px;
+  cursor: pointer;
+}
+.category23 {
+  left: 867px;
+  width: 80px;
+  height: 21px;
+}
+.vector-parent3 {
+  position: absolute;
+  top: 2018px;
+  left: 0;
+  width: 1512px;
+  height: 238px;
+  font-family: var(--font-inter);
+}
+.alice-wonderland-icon {
+  position: absolute;
+  top: 1456px;
+  left: 177px;
+  border-radius: var(--br-sm);
+  width: 211px;
+  height: 309px;
+  object-fit: cover;
+}
+.category-fiksi-fantasi {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-mistyrose-100);
+  height: 2256px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-jura);
+}

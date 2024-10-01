@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./bab2-pennyroyal.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jura:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Caveat Brush:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cagliostro:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inknut Antiqua:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jua:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="bab-2-pennyroyal">
+      <div class="bab-2-pennyroyal-child"></div>
+      <div class="bab-2-pennyroyal-item" data-scroll-to="rectangle"></div>
+      <div class="bab-2-pennyroyal-inner" id="rectangle2"></div>
+      <div class="telurusi-buku5">Telurusi Buku</div>
+      <div class="beaulivre13">Beaulivre</div>
+      <img class="search-icon5" alt="" src="./public/search@2x.png" />
+
+      <img class="logo-icon13" alt="" src="./public/logo@2x.png" />
+
+      <img
+        class="profile-icon5"
+        alt=""
+        src="./public/profile@2x.png"
+        id="profileImage"
+      />
+
+      <div class="rectangle-parent2">
+        <div class="group-child15"></div>
+        <div class="auuiayy5">Auuiayy</div>
+      </div>
+      <div class="bab-2-pennyroyal-child1"></div>
+      <div class="bab-2">Bab 2</div>
+      <div class="bab-2">Bab 2</div>
+      <div class="evie-bergabung-dengan-container">
+        <p class="evie-bergabung-dengan">
+          Evie bergabung dengan grup pelatihan bersama siswa-siswa lainnya,
+          termasuk Basil, Maggie, dan Demetra. Para putri dilatih dengan keras,
+          baik fisik maupun mental, oleh para instruktur yang tegas, termasuk
+          Kepala Sekolah Pennyroyal dan instruktur utamanya, Du Barry.
+          Latihan-latihan ini mengajarkan keterampilan bertarung dan strategi
+          untuk melawan penyihir serta keberanian dalam menghadapi tantangan
+          besar.
+        </p>
+        <p class="evie-bergabung-dengan">
+          Meskipun pada awalnya Evie merasa canggung dan kurang percaya diri,
+          dia mulai menunjukkan potensi besar, dan dengan bantuan
+          teman-temannya, dia perlahan-lahan mulai berkembang menjadi sosok yang
+          lebih tangguh. Persahabatan mereka menjadi lebih dalam seiring waktu,
+          tetapi juga diuji oleh tekanan dan persaingan dalam akademi
+        </p>
+      </div>
+      <div class="vector-parent1">
+        <img class="group-child16" alt="" src="./public/rectangle-711.svg" />
+
+        <div class="copyright-2024-designed6">
+          Copyright 2024 Designed by Kelompok 4
+        </div>
+        <div class="website-ini-merupakan6">
+          Website ini merupakan website untuk kamu yang suka membaca dan menulis
+          cerita.
+        </div>
+        <div class="beaulivre-parent5">
+          <div class="beaulivre14">Beaulivre</div>
+          <img class="logo-icon14" alt="" src="./public/logo@2x.png" />
+        </div>
+        <div class="group-child17"></div>
+        <div class="group-child18"></div>
+        <div class="group-child19"></div>
+        <div class="group-child20"></div>
+        <div class="my-book11" id="myBookText">My Book</div>
+        <div class="favorit11" id="favoritText">Favorit</div>
+        <div class="home11" id="homeText">Home</div>
+        <div class="category16" id="categoryText">
+          <p class="evie-bergabung-dengan">Category</p>
+        </div>
+      </div>
+      <div class="bab-2-pennyroyal-child2"></div>
+      <div class="bab-2-pennyroyal-child3"></div>
+      <div class="lanjut-baca" id="lanjutBacaText">lanjut baca</div>
+      <div class="kembali1" id="kembaliText">Kembali</div>
+      <div class="bab-2-pennyroyal-child4" id="rectangle6"></div>
+      <div class="bab-2-pennyroyal-child5" id="rectangle7"></div>
+      <div class="bab-2-pennyroyal-child6" id="rectangle8"></div>
+      <div class="bab-2-pennyroyal-child7" id="rectangle9"></div>
+      <div class="favorit12" id="favoritText">Favorit</div>
+      <div class="my-book12" id="myBookText">My Book</div>
+      <div class="category18" id="categoryText">Category</div>
+      <div class="home12" id="homeText">Home</div>
+    </div>
+
+    <script>
+      var rectangle2 = document.getElementById("rectangle2");
+      if (rectangle2) {
+        rectangle2.addEventListener("click", function (e) {
+          window.location.href = "./category.html";
+        });
+      }
+      
+      var profileImage = document.getElementById("profileImage");
+      if (profileImage) {
+        profileImage.addEventListener("click", function (e) {
+          window.location.href = "./akun.html";
+        });
+      }
+      
+      var myBookText = document.getElementById("myBookText");
+      if (myBookText) {
+        myBookText.addEventListener("click", function (e) {
+          window.location.href = "./my-book.html";
+        });
+      }
+      
+      var favoritText = document.getElementById("favoritText");
+      if (favoritText) {
+        favoritText.addEventListener("click", function (e) {
+          window.location.href = "./favorit.html";
+        });
+      }
+      
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function (e) {
+          window.location.href = "./home.html";
+        });
+      }
+      
+      var categoryText = document.getElementById("categoryText");
+      if (categoryText) {
+        categoryText.addEventListener("click", function (e) {
+          window.location.href = "./category.html";
+        });
+      }
+      
+      var lanjutBacaText = document.getElementById("lanjutBacaText");
+      if (lanjutBacaText) {
+        lanjutBacaText.addEventListener("click", function (e) {
+          window.location.href = "./bab3-pennyroyal.html";
+        });
+      }
+      
+      var kembaliText = document.getElementById("kembaliText");
+      if (kembaliText) {
+        kembaliText.addEventListener("click", function (e) {
+          window.location.href = "./bab1-pennyroyal.html";
+        });
+      }
+      
+      var rectangle6 = document.getElementById("rectangle6");
+      if (rectangle6) {
+        rectangle6.addEventListener("click", function () {
+          var anchor = document.querySelector("[data-scroll-to='rectangle']");
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+      
+      var rectangle7 = document.getElementById("rectangle7");
+      if (rectangle7) {
+        rectangle7.addEventListener("click", function () {
+          var anchor = document.querySelector("[data-scroll-to='rectangle']");
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+      
+      var rectangle8 = document.getElementById("rectangle8");
+      if (rectangle8) {
+        rectangle8.addEventListener("click", function (e) {
+          window.location.href = "./category.html";
+        });
+      }
+      
+      var rectangle9 = document.getElementById("rectangle9");
+      if (rectangle9) {
+        rectangle9.addEventListener("click", function () {
+          var anchor = document.querySelector("[data-scroll-to='rectangle']");
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+      </script>
+  </body>
+</html>

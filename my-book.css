@@ -1,0 +1,482 @@
+.my-book-child,
+.my-book-inner,
+.my-book-item {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-mistyrose-200);
+  width: 1512px;
+  height: 86px;
+}
+.my-book-inner,
+.my-book-item {
+  top: 86px;
+  height: 63px;
+}
+.my-book-inner {
+  top: 27px;
+  left: 330px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 820px;
+  height: 41px;
+  cursor: pointer;
+}
+.beaulivre3,
+.telurusi-buku1 {
+  position: absolute;
+  top: 40px;
+  left: 402px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 255px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.beaulivre3 {
+  top: 30px;
+  left: 131px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-caveat-brush);
+  color: var(--color-rosybrown-100);
+  width: 169px;
+  height: 31px;
+}
+.logo-icon3,
+.profile-icon1,
+.search-icon1 {
+  position: absolute;
+  top: 31px;
+  left: 358px;
+  width: 30px;
+  height: 33px;
+  object-fit: cover;
+}
+.logo-icon3,
+.profile-icon1 {
+  top: -13px;
+  left: 23px;
+  width: 108px;
+  height: 118px;
+}
+.profile-icon1 {
+  top: 17px;
+  left: 1419px;
+  width: 61px;
+  height: 61px;
+  cursor: pointer;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 165px;
+  height: 34px;
+  opacity: 0.5;
+}
+.auuiayy1 {
+  position: absolute;
+  top: 3px;
+  left: 47px;
+  display: inline-block;
+  width: 198px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.rectangle-group {
+  position: absolute;
+  top: 34px;
+  left: 1241px;
+  width: 245px;
+  height: 34px;
+  font-size: var(--font-size-xl);
+}
+.cerita-saya {
+  position: absolute;
+  top: 225px;
+  left: 167px;
+  font-size: 40px;
+  font-family: var(--font-cagliostro);
+  color: var(--color-rosybrown-100);
+  display: inline-block;
+  width: 388px;
+  height: 50px;
+  mix-blend-mode: luminosity;
+}
+.my-book-child1,
+.my-book-child2,
+.my-book-child3,
+.my-book-child4 {
+  position: absolute;
+  top: 106px;
+  left: 486px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 85px;
+  height: 25px;
+  opacity: 0.5;
+}
+.my-book-child2,
+.my-book-child3,
+.my-book-child4 {
+  left: 766px;
+}
+.my-book-child3,
+.my-book-child4 {
+  top: 105px;
+  left: 906px;
+}
+.my-book-child4 {
+  top: 106px;
+  left: 626px;
+  background-color: var(--color-indianred-300);
+}
+.category3,
+.favorit3,
+.home2,
+.my-book3 {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: luminosity;
+}
+.favorit3 {
+  top: 109px;
+  left: 787px;
+  width: 86px;
+  height: 24px;
+  cursor: pointer;
+}
+.category3,
+.home2,
+.my-book3 {
+  top: 108px;
+  left: 642px;
+  width: 75px;
+  height: 21px;
+}
+.category3,
+.home2 {
+  left: 918px;
+  width: 107px;
+  height: 24px;
+  cursor: pointer;
+}
+.home2 {
+  top: 109px;
+  left: 509px;
+  width: 84px;
+}
+.my-book-child5 {
+  position: absolute;
+  top: 329px;
+  left: 147px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-base);
+  background-color: var(--color-pink-100);
+  width: 1209px;
+  height: 313px;
+}
+.our-beloved-icon {
+  position: absolute;
+  top: 450px;
+  left: 230px;
+  border-radius: var(--br-sm);
+  width: 131px;
+  height: 156px;
+  object-fit: cover;
+}
+.bab-terpublikasi-2,
+.diperbarui-des-152023,
+.dipublikasikan,
+.div,
+.div1,
+.our-beloved-summer,
+.semua-cerita {
+  position: absolute;
+  left: 389px;
+  font-family: var(--font-cagliostro);
+  display: inline-block;
+  width: 388px;
+  height: 50px;
+  mix-blend-mode: luminosity;
+}
+.our-beloved-summer {
+  top: 455px;
+  font-size: 23px;
+  color: var(--color-indianred-100);
+}
+.bab-terpublikasi-2,
+.diperbarui-des-152023,
+.dipublikasikan,
+.div,
+.div1,
+.semua-cerita {
+  top: 498px;
+  font-size: var(--font-size-base);
+  color: var(--color-rosybrown-300);
+}
+.diperbarui-des-152023,
+.dipublikasikan,
+.div,
+.div1,
+.semua-cerita {
+  top: 523px;
+  height: 22px;
+}
+.dipublikasikan,
+.div,
+.div1,
+.semua-cerita {
+  top: 550px;
+  left: 507px;
+  width: 27px;
+  height: 21px;
+}
+.dipublikasikan,
+.div1,
+.semua-cerita {
+  left: 428px;
+}
+.dipublikasikan,
+.semua-cerita {
+  top: 345px;
+  left: 266px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-indianred-100);
+  width: 388px;
+  height: 50px;
+}
+.semua-cerita {
+  top: 352px;
+  left: 501px;
+}
+.line-div,
+.my-book-child6,
+.my-book-child7 {
+  position: absolute;
+  top: 522px;
+  left: 179px;
+  border-top: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 27px;
+  height: 0;
+}
+.my-book-child6,
+.my-book-child7 {
+  top: 529px;
+}
+.my-book-child7 {
+  top: 536px;
+}
+.line-icon,
+.my-book-child8 {
+  position: absolute;
+  height: 1px;
+}
+.my-book-child8 {
+  top: 400.5px;
+  left: 158.5px;
+  border-top: 1px solid #b89a9a;
+  box-sizing: border-box;
+  width: 1209px;
+}
+.line-icon {
+  top: 402px;
+  left: 262px;
+  width: 193px;
+  object-fit: contain;
+}
+.my-book-child9 {
+  position: absolute;
+  top: 442px;
+  left: 1055px;
+  border-radius: 6px;
+  background-color: var(--color-rosybrown-200);
+  width: 232px;
+  height: 33px;
+}
+.div2,
+.lanjut-menulis {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: luminosity;
+}
+.lanjut-menulis {
+  top: 446px;
+  left: 1076px;
+  font-size: var(--font-size-xl);
+  color: #271a1c;
+  width: 145px;
+  height: 21px;
+}
+.div2 {
+  top: 450px;
+  left: 1280px;
+  font-size: 32px;
+  color: var(--color-mistyrose-200);
+  width: 15px;
+  height: 35px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.my-book-child10 {
+  position: absolute;
+  top: 441.5px;
+  left: 1232.5px;
+  border-right: 1px solid var(--color-mistyrose-200);
+  box-sizing: border-box;
+  width: 1px;
+  height: 34px;
+}
+.icons8-eyes-32-1,
+.icons8-star-30-1 {
+  position: absolute;
+  top: 550px;
+  left: 480px;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.icons8-eyes-32-1 {
+  top: 547px;
+  left: 390px;
+  width: 28px;
+  height: 28px;
+}
+.my-book-child11 {
+  position: absolute;
+  top: 1042px;
+  left: 0;
+  width: 1512px;
+  height: 238px;
+}
+.copyright-2024-designed1 {
+  top: 1209px;
+  left: 566px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-dimgray-200);
+  width: 363px;
+  height: 25px;
+}
+.beaulivre4,
+.copyright-2024-designed1,
+.website-ini-merupakan1 {
+  position: absolute;
+  display: inline-block;
+}
+.website-ini-merupakan1 {
+  top: 1078px;
+  left: 1214px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-dimgray-200);
+  width: 248px;
+  height: 25px;
+}
+.beaulivre4 {
+  top: 43px;
+  left: 108px;
+  width: 169px;
+  height: 31px;
+  mix-blend-mode: luminosity;
+}
+.beaulivre-group,
+.logo-icon4 {
+  position: absolute;
+  height: 118px;
+}
+.logo-icon4 {
+  top: 0;
+  left: 0;
+  width: 108px;
+  object-fit: cover;
+}
+.beaulivre-group {
+  top: 1091px;
+  left: 46px;
+  width: 277px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-rosybrown-100);
+  font-family: var(--font-caveat-brush);
+}
+.my-book-child12,
+.my-book-child13,
+.my-book-child14,
+.my-book-child15 {
+  position: absolute;
+  top: 1131px;
+  left: 566px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-indianred-100);
+  width: 88px;
+  height: 38px;
+  opacity: 0.5;
+}
+.my-book-child13,
+.my-book-child14,
+.my-book-child15 {
+  left: 660px;
+}
+.my-book-child14,
+.my-book-child15 {
+  left: 756px;
+  cursor: pointer;
+}
+.my-book-child15 {
+  left: 852px;
+}
+.favorit4,
+.home3,
+.my-book4 {
+  position: absolute;
+  top: 1140px;
+  left: 677px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 71px;
+  height: 10px;
+}
+.favorit4,
+.home3 {
+  left: 773px;
+  cursor: pointer;
+}
+.home3 {
+  left: 589px;
+}
+.category5 {
+  margin: 0;
+}
+.category4 {
+  position: absolute;
+  top: 1140px;
+  left: 867px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 80px;
+  height: 21px;
+  cursor: pointer;
+}
+.my-book2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-mistyrose-100);
+  height: 1280px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-jura);
+}

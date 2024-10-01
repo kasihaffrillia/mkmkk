@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1, width=device-width" />
+  
+  <title>Login Beaulivre</title>
+  <style>
+    body {
+      font-family: 'Jura', sans-serif;
+      background-color: #FFE7E7;
+    }
+
+    /* Style for container box */
+    .login-container {
+      width: 400px;
+      margin: 100px auto;
+      padding: 40px;
+      background-color: #F9D4D4;
+      border-radius: 30px;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      text-align: center;
+    }
+
+    /* Style for the heading */
+    .login-container h2 {
+      font-family: 'Cagliostro', sans-serif;
+      font-size: 36px;
+      color: #9F474F;
+      margin-bottom: 30px;
+    }
+
+    /* Style for form input fields */
+    .login-container input[type="text"],
+    .login-container input[type="password"] {
+      width: 80%;
+      padding: 15px;
+      margin: 10px 0;
+      border: 1px solid #BC868B;
+      border-radius: 30px;
+      outline: none;
+      font-size: 16px;
+    }
+
+    /* Style for the login button */
+    .login-container input[type="button"] {
+      width: 80%;
+      padding: 15px;
+      margin: 20px 0;
+      background-color: #B25A62;
+      color: white;
+      font-size: 18px;
+      border: none;
+      border-radius: 30px;
+      cursor: pointer;
+    }
+
+    /* Style for the extra links */
+    .login-container .extra-links {
+      margin-top: 20px;
+      font-size: 14px;
+    }
+
+    .login-container .extra-links a {
+      color: #9F474F;
+      text-decoration: underline;
+      margin: 0 5px;
+    }
+
+    /* Footer styling */
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #4B4747;
+      font-size: 16px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="login-container">
+    <h2>Masuk Ke Beaulivre</h2>
+    <form>
+      <input type="text" id="username" placeholder="Username" />
+      <input type="password" id="password" placeholder="Password" />
+      <input type="button" id="tombol" value="Login" />
+    </form>
+
+    <div class="extra-links">
+      <a href="#">Lupa Kata Sandi?</a> | 
+      <a href="#">Daftar</a>
+    </div>
+  </div>
+
+  <div class="footer">
+    Website ini merupakan website untuk kamu yang suka membaca dan menulis cerita.<br>
+    Copyright 2024 Designed by Kelompok 4
+  </div>
+
+  <script>
+    const bnTombol = document.querySelector("#tombol");
+    const txtUsername = document.querySelector("#username");
+    const txPassword = document.querySelector("#password");
+
+    bnTombol.addEventListener("click", function() {
+      if(txtUsername.value === "halo" && txPassword.value === "ituu") {
+        console.log("Login berhasil");
+        window.location = "home.html";
+      } else {
+        console.log("User atau password salah bro!");
+        alert("Username atau password salah bro!");
+      }
+    });
+  </script>
+</body>
+</html>

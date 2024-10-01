@@ -1,0 +1,375 @@
+.bab-5-pennyroyal-child,
+.bab-5-pennyroyal-item {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-mistyrose-200);
+  width: 1512px;
+  height: 86px;
+}
+.bab-5-pennyroyal-item {
+  top: 86px;
+  height: 63px;
+}
+.bab-5-pennyroyal-inner {
+  position: absolute;
+  top: 27px;
+  left: 330px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 820px;
+  height: 41px;
+  cursor: pointer;
+}
+.beaulivre9,
+.telurusi-buku4 {
+  position: absolute;
+  top: 40px;
+  left: 402px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 255px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.beaulivre9 {
+  top: 30px;
+  left: 131px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-caveat-brush);
+  color: var(--color-rosybrown-100);
+  width: 169px;
+  height: 31px;
+}
+.logo-icon9,
+.profile-icon4,
+.search-icon4 {
+  position: absolute;
+  top: 31px;
+  left: 358px;
+  width: 30px;
+  height: 33px;
+  object-fit: cover;
+}
+.logo-icon9,
+.profile-icon4 {
+  top: -13px;
+  left: 23px;
+  width: 108px;
+  height: 118px;
+}
+.profile-icon4 {
+  top: 17px;
+  left: 1419px;
+  width: 61px;
+  height: 61px;
+  cursor: pointer;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 165px;
+  height: 34px;
+  opacity: 0.5;
+}
+.auuiayy4 {
+  position: absolute;
+  top: 3px;
+  left: 47px;
+  display: inline-block;
+  width: 198px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 34px;
+  left: 1241px;
+  width: 245px;
+  height: 34px;
+  font-size: var(--font-size-xl);
+}
+.bab-5-pennyroyal-child1,
+.bab-5-pennyroyal-child2 {
+  position: absolute;
+  top: 105px;
+  left: 486px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 85px;
+  height: 25px;
+  opacity: 0.5;
+}
+.bab-5-pennyroyal-child2 {
+  top: 221px;
+  left: 150px;
+  border-radius: var(--br-3xs);
+  width: 1188px;
+  height: 950px;
+}
+.bab-5-pennyroyal-child3,
+.bab-5-pennyroyal-child4,
+.bab-5-pennyroyal-child5 {
+  position: absolute;
+  top: 105px;
+  left: 766px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 85px;
+  height: 25px;
+  opacity: 0.5;
+}
+.bab-5-pennyroyal-child4,
+.bab-5-pennyroyal-child5 {
+  top: 104px;
+  left: 906px;
+  background-color: var(--color-indianred-100);
+}
+.bab-5-pennyroyal-child5 {
+  top: 105px;
+  left: 626px;
+  background-color: var(--color-rosybrown-100);
+}
+.bab,
+.category13,
+.favorit9,
+.home9,
+.my-book9 {
+  position: absolute;
+  top: 108px;
+  left: 787px;
+  display: inline-block;
+  width: 86px;
+  height: 24px;
+  mix-blend-mode: luminosity;
+}
+.bab,
+.category13,
+.home9,
+.my-book9 {
+  top: 107px;
+  left: 642px;
+  width: 75px;
+  height: 21px;
+}
+.bab,
+.category13,
+.home9 {
+  left: 918px;
+  width: 107px;
+  height: 24px;
+}
+.bab,
+.home9 {
+  top: 108px;
+  left: 509px;
+  width: 84px;
+}
+.bab {
+  top: 349px;
+  left: 229px;
+  font-size: var(--font-size-19xl);
+  font-family: var(--font-jua);
+  width: 967px;
+  height: 649px;
+}
+.di-akhir-cerita {
+  margin: 0;
+}
+.span {
+  font-size: var(--font-size-sm);
+}
+.di-akhir-cerita-container {
+  position: absolute;
+  top: 417px;
+  left: 221px;
+  display: inline-block;
+  width: 967px;
+  height: 649px;
+  mix-blend-mode: luminosity;
+  font-size: var(--font-size-11xl);
+}
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 238px;
+}
+.copyright-2024-designed4 {
+  top: 167px;
+  left: 566px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-dimgray-200);
+  width: 363px;
+  height: 25px;
+}
+.beaulivre10,
+.copyright-2024-designed4,
+.website-ini-merupakan4 {
+  position: absolute;
+  display: inline-block;
+}
+.website-ini-merupakan4 {
+  top: 36px;
+  left: 1214px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-dimgray-200);
+  width: 248px;
+  height: 25px;
+}
+.beaulivre10 {
+  top: 43px;
+  left: 108px;
+  width: 169px;
+  height: 31px;
+  mix-blend-mode: luminosity;
+}
+.logo-icon10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 108px;
+  height: 118px;
+  object-fit: cover;
+}
+.beaulivre-parent2 {
+  position: absolute;
+  top: 49px;
+  left: 46px;
+  width: 277px;
+  height: 118px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-rosybrown-100);
+  font-family: var(--font-caveat-brush);
+}
+.group-child10,
+.group-child11,
+.group-child12,
+.group-child13 {
+  position: absolute;
+  top: 89px;
+  left: 566px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-indianred-100);
+  width: 88px;
+  height: 38px;
+  opacity: 0.5;
+}
+.group-child11,
+.group-child12,
+.group-child13 {
+  left: 660px;
+}
+.group-child12,
+.group-child13 {
+  left: 756px;
+}
+.group-child13 {
+  left: 852px;
+}
+.category14,
+.favorit10,
+.home10,
+.my-book10 {
+  position: absolute;
+  top: 98px;
+  left: 677px;
+  font-weight: 500;
+  display: inline-block;
+  width: 71px;
+  height: 10px;
+  cursor: pointer;
+}
+.category14,
+.favorit10,
+.home10 {
+  left: 773px;
+}
+.category14,
+.home10 {
+  left: 589px;
+}
+.category14 {
+  left: 867px;
+  width: 80px;
+  height: 21px;
+}
+.vector-group {
+  position: absolute;
+  top: 1494px;
+  left: 0;
+  width: 1512px;
+  height: 238px;
+  font-family: var(--font-inter);
+}
+.bab-5-pennyroyal-child6 {
+  top: 998px;
+  left: 1042px;
+  background-color: var(--color-indianred-100);
+}
+.bab-5-pennyroyal-child6,
+.bab-5-pennyroyal-child7,
+.bab-5-pennyroyal-child8 {
+  position: absolute;
+  border-radius: var(--br-81xl);
+  width: 182px;
+  height: 45px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.bab-5-pennyroyal-child7 {
+  top: 1066px;
+  left: 1042px;
+  background-color: #ffd0d4;
+}
+.bab-5-pennyroyal-child8 {
+  top: 1000px;
+  left: 250px;
+  background-color: var(--color-indianred-100);
+}
+.tutup {
+  top: 1007px;
+  left: 1102px;
+}
+.baca-ulang,
+.kembali,
+.tutup {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 160px;
+  height: 77px;
+}
+.baca-ulang {
+  top: 1074px;
+  left: 1082px;
+  cursor: pointer;
+}
+.kembali {
+  top: 1007px;
+  left: 293px;
+}
+.bab-5-pennyroyal {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-mistyrose-100);
+  height: 1732px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-jura);
+}

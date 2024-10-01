@@ -1,0 +1,95 @@
+/* Container */
+.masuk-child {
+  position: absolute;
+  top: 334px;
+  left: 446px;
+  border-radius: 69px;
+  background-color: var(--color-pink-100);
+  width: 619px;
+  height: 476px;
+  padding: 20px;
+}
+
+/* Form title */
+.masuk-ke-beaulivre {
+  position: absolute;
+  top: 20px;
+  left: 50px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-cagliostro);
+  color: var(--color-indianred-400);
+}
+
+/* Input field container */
+.input-group {
+  margin-top: 100px;
+  position: relative;
+}
+
+.icon-username, .icon-password {
+  position: absolute;
+  left: -50px;
+  top: 10px;
+}
+
+.username2, .password1 {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 18px;
+  background-color: #f9f9f9;
+}
+
+.username2::placeholder, .password1::placeholder {
+  opacity: 0.7;
+}
+
+/* Submit button */
+.masuk-child3 {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.masuk3 {
+  padding: 10px 30px;
+  border-radius: 10px;
+  background-color: var(--color-indianred-200);
+  color: white;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+.masuk3:hover {
+  background-color: var(--color-indianred-300);
+}
+
+/* Forgot password */
+.lupa-kata-sandi {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: var(--font-size-lg);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Sign up */
+.belum-memiliki-akun-container {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.daftar {
+  text-decoration: underline;
+  cursor: pointer;
+}

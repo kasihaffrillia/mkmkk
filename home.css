@@ -1,0 +1,473 @@
+.home-child,
+.home-inner,
+.home-item {
+  position: absolute;
+  top: -13px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-mistyrose-200);
+  width: 1512px;
+  height: 86px;
+}
+.home-inner,
+.home-item {
+  top: 75px;
+  height: 63px;
+}
+.home-inner {
+  top: 27px;
+  left: 330px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-pink-100);
+  box-sizing: border-box;
+  width: 820px;
+  height: 41px;
+  cursor: pointer;
+}
+.beaulivre5,
+.telurusi-buku2 {
+  position: absolute;
+  top: 40px;
+  left: 402px;
+  font-family: var(--font-jura);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 255px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.beaulivre5 {
+  top: 30px;
+  left: 131px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-caveat-brush);
+  color: var(--color-rosybrown-100);
+  width: 169px;
+  height: 31px;
+}
+.logo-icon5,
+.profile-icon2,
+.search-icon2 {
+  position: absolute;
+  top: 31px;
+  left: 358px;
+  width: 30px;
+  height: 33px;
+  object-fit: cover;
+}
+.logo-icon5,
+.profile-icon2 {
+  top: -13px;
+  left: 23px;
+  width: 108px;
+  height: 118px;
+}
+.profile-icon2 {
+  top: 17px;
+  left: 1419px;
+  width: 61px;
+  height: 61px;
+  cursor: pointer;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-rosybrown-100);
+  width: 165px;
+  height: 34px;
+  opacity: 0.5;
+}
+.auuiayy2 {
+  position: absolute;
+  top: 3px;
+  left: 47px;
+  display: inline-block;
+  width: 198px;
+  height: 28px;
+  mix-blend-mode: luminosity;
+}
+.rectangle-container {
+  position: absolute;
+  top: 34px;
+  left: 1241px;
+  width: 245px;
+  height: 34px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jura);
+}
+.home-child1 {
+  position: absolute;
+  top: 415px;
+  left: 995px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-indianred-100);
+  width: 220px;
+  height: 48px;
+  opacity: 0.5;
+}
+.cerita-yang-mungkin,
+.mulai-menulis,
+.selamat-datang-auuiayy {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: luminosity;
+}
+.mulai-menulis {
+  top: 428px;
+  left: 1042px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jura);
+  width: 452px;
+  height: 39px;
+}
+.cerita-yang-mungkin,
+.selamat-datang-auuiayy {
+  top: 244px;
+  left: 177px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-rosybrown-100);
+  width: 771px;
+  height: 139px;
+}
+.cerita-yang-mungkin {
+  top: 483px;
+  left: 187px;
+  font-size: var(--font-size-5xl);
+  width: 388px;
+  height: 50px;
+}
+.home-child2,
+.home-child3,
+.home-child4,
+.home-child5 {
+  position: absolute;
+  top: 105px;
+  left: 486px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-indianred-300);
+  width: 85px;
+  height: 25px;
+  opacity: 0.5;
+}
+.home-child3,
+.home-child4,
+.home-child5 {
+  left: 766px;
+  background-color: var(--color-rosybrown-100);
+}
+.home-child4,
+.home-child5 {
+  top: 104px;
+  left: 906px;
+}
+.home-child5 {
+  top: 105px;
+  left: 626px;
+}
+.favorit5 {
+  top: 108px;
+  left: 787px;
+  width: 86px;
+  height: 24px;
+  cursor: pointer;
+}
+.category6,
+.favorit5,
+.home5,
+.my-book5 {
+  position: absolute;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-jura);
+  display: inline-block;
+  mix-blend-mode: luminosity;
+}
+.my-book5 {
+  top: 107px;
+  left: 642px;
+  width: 75px;
+  height: 21px;
+  cursor: pointer;
+}
+.category6,
+.home5 {
+  height: 24px;
+}
+.category6 {
+  top: 107px;
+  left: 918px;
+  width: 107px;
+  cursor: pointer;
+}
+.home5 {
+  top: 108px;
+  left: 509px;
+  width: 84px;
+}
+.pennyroyal {
+  margin: 0;
+}
+.pennyroyal-academy {
+  position: absolute;
+  top: 335px;
+  left: 6px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 205px;
+  height: 64px;
+  mix-blend-mode: luminosity;
+}
+.pennyroyal-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 211px;
+  height: 309px;
+  object-fit: cover;
+}
+.pennyroyal-academy-parent {
+  position: absolute;
+  top: 560px;
+  left: 168px;
+  width: 211px;
+  height: 399px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-red);
+}
+.die-kleine-hexe {
+  position: absolute;
+  top: 335px;
+  left: 20px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 205px;
+  height: 64px;
+  mix-blend-mode: luminosity;
+}
+.die-kleine-hexe-parent {
+  position: absolute;
+  top: 560px;
+  left: 415px;
+  width: 225px;
+  height: 399px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-red);
+}
+.the-lost-emerald {
+  position: absolute;
+  top: 335px;
+  left: 20px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 185px;
+  height: 64px;
+  mix-blend-mode: luminosity;
+}
+.the-lost-emerald-of-briarwood-parent {
+  position: absolute;
+  top: 560px;
+  left: 662px;
+  width: 211px;
+  height: 399px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-red);
+}
+.the-wonder-of {
+  position: absolute;
+  top: 335px;
+  left: 24px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 163px;
+  height: 64px;
+  mix-blend-mode: luminosity;
+}
+.the-secret-dragon-parent,
+.the-wonder-of-wild-flowers-parent {
+  position: absolute;
+  top: 560px;
+  left: 907px;
+  width: 211px;
+  height: 399px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-red);
+}
+.the-secret-dragon-parent {
+  left: 1152px;
+}
+.anda-bisa-menuangkan,
+.anda-sekarang-dapat-container {
+  position: absolute;
+  top: 319px;
+  left: 174px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-rosybrown-100);
+  display: inline-block;
+  width: 549px;
+  height: 121px;
+  mix-blend-mode: luminosity;
+}
+.anda-bisa-menuangkan {
+  top: 386px;
+  width: 491px;
+}
+.icon-buku {
+  position: absolute;
+  top: 375px;
+  left: 858px;
+  width: 127px;
+  height: 116px;
+  object-fit: cover;
+}
+.home-child6 {
+  position: absolute;
+  top: 259px;
+  left: 990px;
+  border-radius: 21px;
+  background-color: var(--color-white);
+  width: 225px;
+  height: 138px;
+}
+.tulis-cerita-anda {
+  position: absolute;
+  top: 273px;
+  left: 1007px;
+  font-size: 13px;
+  font-family: var(--font-jura);
+  display: inline-block;
+  width: 133px;
+  height: 26px;
+  opacity: 0.5;
+  mix-blend-mode: luminosity;
+}
+.home-child7 {
+  position: absolute;
+  top: 1052px;
+  left: 0;
+  width: 1512px;
+  height: 228px;
+}
+.copyright-2024-designed2 {
+  top: 1219px;
+  left: 566px;
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-dimgray-200);
+  width: 363px;
+  height: 25px;
+}
+.beaulivre6,
+.copyright-2024-designed2,
+.website-ini-merupakan2 {
+  position: absolute;
+  display: inline-block;
+}
+.website-ini-merupakan2 {
+  top: 1088px;
+  left: 1214px;
+  font-weight: 500;
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-dimgray-200);
+  width: 248px;
+  height: 25px;
+}
+.beaulivre6 {
+  top: 43px;
+  left: 108px;
+  width: 169px;
+  height: 31px;
+  mix-blend-mode: luminosity;
+}
+.logo-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 108px;
+  height: 118px;
+  object-fit: cover;
+}
+.beaulivre-container {
+  position: absolute;
+  top: 1101px;
+  left: 46px;
+  width: 277px;
+  height: 118px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-rosybrown-100);
+  font-family: var(--font-caveat-brush);
+}
+.home-child10,
+.home-child11,
+.home-child8,
+.home-child9 {
+  position: absolute;
+  top: 1141px;
+  left: 566px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-indianred-100);
+  width: 88px;
+  height: 38px;
+  opacity: 0.5;
+}
+.home-child10,
+.home-child11,
+.home-child9 {
+  left: 660px;
+  cursor: pointer;
+}
+.home-child10,
+.home-child11 {
+  left: 756px;
+}
+.home-child11 {
+  left: 852px;
+}
+.my-book6 {
+  left: 677px;
+  cursor: pointer;
+}
+.category7,
+.favorit6,
+.home6,
+.my-book6 {
+  position: absolute;
+  top: 1150px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 71px;
+  height: 10px;
+}
+.favorit6 {
+  left: 773px;
+  cursor: pointer;
+}
+.category7,
+.home6 {
+  left: 589px;
+}
+.category7 {
+  left: 867px;
+  width: 80px;
+  height: 21px;
+  cursor: pointer;
+}
+.home4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-mistyrose-100);
+  height: 1280px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-cagliostro);
+}

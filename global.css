@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-caveat-brush: "Caveat Brush";
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-cagliostro: Cagliostro;
+  --font-jura: Jura;
+  --font-jua: Jua;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-9xl: 28px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+  --font-size-29xl: 48px;
+  --font-size-19xl: 38px;
+  --font-size-mid: 17px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-mistyrose-100: #ffe7e7;
+  --color-mistyrose-200: #f9d4d4;
+  --color-black: #000;
+  --color-indianred-100: #b95760;
+  --color-indianred-200: #b35a62;
+  --color-indianred-300: #a9444d;
+  --color-indianred-400: #9f474f;
+  --color-rosybrown-100: #bc868b;
+  --color-rosybrown-200: #b98287;
+  --color-rosybrown-300: #b48286;
+  --color-dimgray-100: #545454;
+  --color-dimgray-200: #4b4747;
+  --color-pink-100: #edc3c3;
+  --color-gray-100: #fbfbfb;
+  --color-gray-200: rgba(0, 0, 0, 0.5);
+  --color-white: #fff;
+  --color-red: #ff0018;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-sm: 14px;
+  --br-base: 16px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+}
